@@ -129,6 +129,8 @@
           url:'/subpkg/goods_list/goods_list?query=' + kw
         })
       }
+      
+      
     },
     // 计算属性
     computed: {
