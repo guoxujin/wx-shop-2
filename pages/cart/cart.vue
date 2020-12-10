@@ -1,6 +1,6 @@
 <template>
 	<view class="">
-	  111111111
+	  购物车
 	</view>
 </template>
 
